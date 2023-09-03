@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white1">#ffffff</color>
+
+    <!-- FONDO APP -->
+    <color name="background_app">#0E0B20</color>
+    <!-- TEXTO INICIAL EDITEXT -->
+    <color name="text_hint">#B9ECE4E4</color>
+    <!-- COLOR DEL TEXTO RESULTADO -->
+    <color name="textResult">#CD031B</color>
+</resources>

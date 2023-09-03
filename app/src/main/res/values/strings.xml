@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Proyecto Final</string>
+    <string name="name_app">App Comparar</string>
+
+    <!-- String EditText -->
+    <string name="app_string_uno">Escriba el primer texto...</string>
+    <string name="app_string_dos">Escriba el segundo texto...</string>
+
+    <!-- String Button -->
+    <string name="text_button">Comparar</string>
+
+</resources>
